@@ -1,0 +1,88 @@
+= Agile
+
+Agile is an iterative approach to project management and software development. This management technique focuses on incremental and consumable updates to products in order for teams to function deliberately and specifically. In general, Agile values these key points:
+
+1.	Individuals and interactions over processes and tools
+2.	Working software over comprehensive documentation
+3.	Customer collaboration over contract negotiation
+4.	Responding to change over following a plan
+== Scrum
+
+Scrum is a lightweight framework for teams to follow. This framework helps enable teams to develop, deliver, and sustain complex products such as software or research ideas. The five values of scrum are courage, focus, commitment, respect, and openness. These values define key points of scrum and scrum teams will practice these values in their development. 
+
+The difference between Scrum and Agile can be confusing. Remember, Agile is a project management philosophy that utilizes core principles for guidance. Scrum, however, is a specific Agile methodology that is practiced during project development. 
+
+Scrum has key components including sprints, roles, and ceremonies. These components are discussed in depth in future sections. 
+
+== Sprints
+
+Sprints are the building blocks of development under Scrum. They are short, time specific periods where a team works to accomplish specific work and goals. In general, there are four key ceremonies that make up sprints: sprint planning, daily standups, sprint reviews, and retrospectives. 
+
+=== Sprints in The Data Mine
+
+Within The Data Mine, two-week sprints are generally most appropriate. Sprints can be aligned with bi-weekly progress reports, so teams are sharing updates with TAs and The Data Mine staff while they work within the sprint schedule. Teams will structure these two-week sprints so that team meetings align with the 4 sprint ceremonies. 
+
+
+
+
+== Scrum Team Roles
+
+Considering the personnel and their strengths on every sprint team is crucial for team success. Designated individual roles will help teams stay organized and will establish clear, individual responsibilities. The three roles on a scrum team are product owner, scrum master, and development team. 
+
+The product owner is connected directly to the product’s business application. This person provides detailed explanation of product applications and tells the development team what is important to deliver. They set clear directions for the team, balance stakeholder expectations, and understand customer needs. 
+
+The development team is comprised of the team members that will do the work. These team members take ownership of tasks made by the product owner and establish these tasks as a part of their sprint. Great development teams have a broad background of experiences and use their strengths to swiftly complete tasks. Their main responsibilities include delivering work throughout the sprint and ensuring transparency in their development. 
+
+The final role within a scrum team is the scrum master. This role ensures that scrum is running smoothly and effectively. They are the bridge between product owners and the development team by coordinating valuable product updates with product owners and ensuring work gets completed by the development team. Scrum masters ensure transparency between all team members, create defined sprint schedules, teach sprint values, and most importantly, serve the scrum team to allow for smooth development. 
+
+=== Scrum Team Roles in The Data Mine
+
+The Data Mine has a natural definition of who takes on what roles within a scrum team. 
+
+Corporate partner mentors take on the role of product owner because of their direct connection to the business. 
+
+Purdue students make up the development team and perform the work necessary to complete the project. 
+
+TAs work as scrum masters and are the bridge between CP mentors and Purdue students. They establish Agile management and teach scrum to the team.  
+
+== Sprint Planning
+
+The beginning of every sprint starts with sprint planning. This is a time where teams define deliverables for the upcoming sprint. Teams will decide on what tasks need to be done, how these tasks can be completed, and who will be taking on what tasks during the sprint. 
+
+It is common to use an Agile Software Management Tool when conducting sprint planning. Software like Linear or JIRA are popular options. In these tools, teams can visually organize their sprint planning through task creation, task ownership, and task descriptions. These tools make sprints transparent and centralized.
+
+=== Key Components of Sprint Planning
+
+Deciding what tasks need to be done is a crucial first step towards a successful sprint. To start, product owners and scrum masters take the responsibility for the delivery and upkeep of the product backlog. The product backlog is a prioritized list of tasks for the development team to accomplish. The product backlog clearly lays out stakeholder and customer expectations such that the development team can satisfy these needs. Because this system creates a transparent set of tasks to be completed, the development team can take ownership of specific tasks for each sprint. During the sprint planning ceremony, development team members create a plan of action based on the product backlog and move tasks from the product backlog to the sprint backlog. The sprint backlog is the same as the product backlog, but rather than it being a list of tasks for the entire project, it is a prioritized list for only the upcoming sprint. 
+
+Once tasks are decided on for the upcoming sprint, the next step of sprint planning will be to plan how these tasks will get done. The scrum team will examine how each of the selected tasks fit together and create a plan of completion. When using a management software, notes and specific sub-tasks can be noted directly on the task, allowing everyone on the team to see written thoughts. 
+
+Lastly, the team needs to decide who will take ownership of each of the tasks. Choosing tasks based on each other’s strengths is important. The development team will discuss who is best fit to take on certain tasks and will label who takes ownership of each task in the sprint backlog.  
+
+=== Sprint Planning in The Data Mine
+
+Sprint planning should take place at the start of every sprint. Realistically, planning meetings will occur at the first team meeting following the end of sprint. TAs are responsible for creating and maintaining the product backlog by working with their team’s corporate partner mentor to ensure they project is moving with correct pace and direction.  
+
+During the sprint planning meeting, an open discussion is held between the corporate partner mentors, TAs, and development team. Each development team member will take ownership of tasks from the product backlog to complete the coming sprint. Each event that is chosen will then be moved to sprint backlog. 
+
+[TIP]
+Pairing members of the development team together to take co-ownership of tasks helps productivity and allows for team mentorships to form.
+
+
+2.5 Daily Standups
+
+
+
+2.5.1 Daily Standups in The Data Mine
+
+2.6 Sprint Reviews
+
+2.6.1 Sprint Reviews in The Data Mine
+
+2.7 Retrospectives
+
+2.7.1 Retrospectives in The Data Mine
+
+
+2.8 Sprint Schedule in The Data Mine
+
