@@ -98,7 +98,7 @@ A *sprint retrospective* is the final sprint ceremony within a sprint. This even
 === Retrospectives in The Data Mine
 Retrospectives in The Data Mine function as a standard retrospective. This ceremony will happen once a sprint and is a time for reflection and evaluation of the sprint. This event can be held with our without a corporate partner mentor and it is the TA’s responsibility to lead this ceremony. 
 
-[Tip]
+[TIP]
 Encourage honesty in the hope of continued improvement.
 
 
@@ -114,5 +114,5 @@ Because The Data Mine Corporate Partners experience is on an academic schedule, 
 
 *Following Thursday/Friday Lab*: standup, sprint retrospective, and working meeting
 
-[Important]
+[IMPORTANT]
 This schedule can be modified slightly, but it is most important for sprint planning meetings and sprint review meetings to be held with corporate partner mentors.
